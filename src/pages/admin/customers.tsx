@@ -75,7 +75,7 @@ const arr: Array<DataType> = [
         alt="Shoes"
       />
     ),
-    name: "May Scoot",
+    name: "Vranda Manihar",
     email: "aunt.may@example.com",
     gender: "female",
     role: "user",

@@ -6,4 +6,6 @@ const Loader = () => {
   );
 };
 
+// Replaced sandarbh Bajpai with Vranda Manihar
+
 export default Loader;
